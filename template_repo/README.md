@@ -3,6 +3,9 @@
 This is the starting point for every trainee repository. It already has the layout, tooling,
 container files and checks that the Technical Playbook asks for, so you spend your time on
 the service, not on set-up.
+The project includes automated checks to support code quality and security.
+
+
 
 ## Quick start (five commands)
 
