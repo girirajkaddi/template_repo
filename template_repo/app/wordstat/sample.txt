@@ -1,0 +1,10 @@
+apple banana apple orange banana apple
+café café naïve
+
+
+
+apple  apple  apple apple apple apple apple apple apple
+Hello hello HELLO
+hello, hello! world.
+
+-n 0 or -n -2

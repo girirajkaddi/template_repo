@@ -54,6 +54,7 @@ select = ["E", "F", "W", "I", "N", "UP", "B", "S", "C4", "C90", "SIM", "PT", "PT
 max-complexity = 10        # keep functions small (PY-14)
 
 [tool.ruff.lint.per-file-ignores]
+"app/wordstat/wordstat.py" = ["T201"]
 "tests/**" = ["S101"]      # assert is how pytest checks things
 
 [tool.pytest.ini_options]
